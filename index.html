@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Расписание ДЭ 24-25</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 0;
+            line-height: 1.4;
+            overflow-x: hidden;
+        }
+        
+        .container {
+            width: 100%;
+            min-height: 100vh;
+            margin: 0 auto;
+            background: white;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+            padding: 16px 12px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            font-size: 1.3em;
+            margin-bottom: 12px;
+            font-weight: 600;
+            text-align: center;
+        }
+        
+        .week-info {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+        
+        .info-card {
+            background: rgba(255, 255, 255, 0.15);
+            padding: 8px 10px;
+            border-radius: 6px;
+            font-weight: 500;
+            font-size: 0.85em;
+            text-align: center;
+        }
+        
+        .schedule-container {
+            flex: 1;
+            padding: 16px 12px;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .day-selector {
+            display: flex;
+            overflow-x: auto;
+            gap: 4px;
+            margin-bottom: 16px;
+            padding: 4px 0;
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none;
+        }
+        
+        .day-selector::-webkit-scrollbar {
+            display: none;
+        }
+        
+        .day-btn {
+            padding: 10px 12px;
+            border: none;
+            border-radius: 8px;
+            background: #ecf0f1;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-weight: 500;
+            font-size: 0.8em;
+            white-space: nowrap;
+            flex-shrink: 0;
+            min-width: 50px;
+        }
+        
+        .day-btn.active {
+            background: #3498db;
+            color: white;
+            box-shadow: 0 2px 6px rgba(52, 152, 219, 0.3);
+        }
+        
+        .schedule-list {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            flex: 1;
+        }
+        
+        .lesson-card {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 14px;
+            border-left: 4px solid #3498db;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+        
+        .lesson-card.no-class {
+            border-left-color: #95a5a6;
+            background: #f1f2f6;
+        }
+        
+        .lesson-time {
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 0.9em;
+            margin-bottom: 6px;
+        }
+        
+        .lesson-content {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+        
+        .subject {
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 0.9em;
+            line-height: 1.3;
+        }
+        
+        .teacher {
+            color: #7f8c8d;
+            font-size: 0.8em;
+        }
+        
+        .room {
+            color: #3498db;
+            font-weight: 500;
+            font-size: 0.8em;
+        }
+        
+        .no-class {
+            color: #95a5a6;
+            font-style: italic;
+            text-align: center;
+            padding: 12px;
+            font-size: 0.9em;
+        }
+        
+        .note {
+            font-size: 0.75em;
+            color: #e74c3c;
+            margin-top: 4px;
+            padding: 3px 6px;
+            background: rgba(231, 76, 60, 0.1);
+            border-radius: 4px;
+            display: inline-block;
+        }
+        
+        .type-badge {
+            font-size: 0.7em;
+            color: #27ae60;
+            background: rgba(39, 174, 96, 0.1);
+            padding: 2px 5px;
+            border-radius: 3px;
+            margin-right: 4px;
+            display: inline-block;
+        }
+        
+        .next-day-notice {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 8px;
+            padding: 12px;
+            margin-top: 16px;
+            text-align: center;
+            font-size: 0.85em;
+            color: #856404;
+        }
+        
+        .next-day-btn {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 16px;
+            border-radius: 6px;
+            margin-top: 8px;
+            font-weight: 500;
+            cursor: pointer;
+            font-size: 0.85em;
+        }
+
+        .lesson-card {
+            animation: fadeIn 0.3s ease;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @media (max-width: 320px) {
+            .day-btn {
+                padding: 8px 10px;
+                font-size: 0.75em;
+                min-width: 45px;
+            }
+            
+            .lesson-card {
+                padding: 12px;
+            }
+            
+            .subject {
+                font-size: 0.85em;
+            }
+        }
+
+        @media (min-height: 700px) {
+            .schedule-list {
+                gap: 10px;
+            }
+            
+            .lesson-card {
+                padding: 16px;
+            }
+        }
+
+        @media (orientation: landscape) and (max-height: 500px) {
+            .container {
+                flex-direction: row;
+                min-height: auto;
+            }
+            
+            header {
+                width: 160px;
+                min-height: 100vh;
+                position: fixed;
+                left: 0;
+                top: 0;
+            }
+            
+            .schedule-container {
+                margin-left: 160px;
+                width: calc(100% - 160px);
+                min-height: 100vh;
+            }
+            
+            .week-info {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ДЭ 24-25</h1>
+            <div class="week-info">
+                <div class="info-card" id="current-day">День: ...</div>
+                <div class="info-card" id="week-type">Неделя: ...</div>
+                <div class="info-card" id="current-date">Дата: ...</div>
+            </div>
+        </header>
+        
+        <div class="schedule-container">
+            <div class="day-selector" id="day-selector"></div>
+            
+            <div class="schedule-list" id="schedule-list"></div>
+
+            <div id="next-day-notice" class="next-day-notice" style="display: none;">
+                <div>Пары на сегодня закончились</div>
+                <button class="next-day-btn" onclick="showNextDay()">Показать расписание на завтра</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const scheduleData = {
+            odd_week: {
+                week_type: "нечетная",
+                days: [
+                    {
+                        day: "понедельник",
+                        lessons: [
+                            { time: "09:00-10:35", subject: null },
+                            { time: "10:55-12:30", subject: "Программирование на языке Python", type: "лекция", teacher: "ХРАМОВ Д.Э.", room: "01-407" },
+                            { time: "13:00-14:35", subject: "История России", type: "практика", teacher: "ХРИСТЕНКО Д.Н.", room: "02-105" },
+                            { time: "14:55-16:30", subject: "Адаптационный курс английского языка", type: "практика", teacher: "КИРСАНОВА М.М.", room: "12-112", note: "Курс по выбору" },
+                            { time: "16:50-18:25", subject: null }
+                        ]
+                    },
+                    {
+                        day: "вторник",
+                        lessons: [
+                            { time: "09:00-10:35", subject: "Английский язык для IT-специалистов", type: "практика", teacher: "ТОКАРЕВ В.С.", room: "01-212", note: "Курс по выбору" },
+                            { time: "10:55-12:30", subject: "Программирование на языке Python", type: "практика", teacher: "ВЕТОШКИН А.Ю. / АКИМУШКИНА М.А.", room: "01-212 / 01-214", note: "Две группы" },
+                            { time: "13:00-14:35", subject: "Экономическая теория", type: "практика", teacher: "АРЗАМАСЦЕВА Н.В.", room: "01-413" },
+                            { time: "14:55-16:30", subject: null },
+                            { time: "16:50-18:25", subject: null }
+                        ]
+                    },
+                    {
+                        day: "среда",
+                        lessons: [
+                            { time: "09:00-10:35", subject: null },
+                            { time: "10:55-12:30", subject: null },
+                            { time: "13:00-14:35", subject: "Экономическая теория", type: "лекция", teacher: "АРЗАМАСЦЕВА Н.В.", room: "01-416" },
+                            { time: "14:55-16:30", subject: "Базовые виды спорта / Базовая физическая культура", type: "практика", room: "СК", note: "Курс по выбору" },
+                            { time: "16:50-18:25", subject: "Линейная алгебра", type: "практика", teacher: "ПРУДКИЙ А.С.", room: "12-220" }
+                        ]
+                    },
+                    {
+                        day: "четверг",
+                        lessons: [
+                            { time: "09:00-10:35", subject: "Линейная алгебра", type: "лекция", teacher: "ПРУДКИЙ А.С.", room: "28-304" },
+                            { time: "10:55-12:30", subject: "Физика", type: "практика", teacher: "ХУСАИНОВ Ш.Г.", room: "28-306а, 28-306б" },
+                            { time: "13:00-14:35", subject: "Основы российской государственности", type: "лекция", teacher: "МИРОНЮК С.А.", room: "01-407" },
+                            { time: "14:55-16:30", subject: "Иностранный язык", type: "практика", teacher: "КИРСАНОВА М.М. / ПОРЧЕСКУ Г.В.", room: "12-112 / 27-315", note: "Две группы" },
+                            { time: "16:50-18:25", subject: null }
+                        ]
+                    },
+                    {
+                        day: "пятница",
+                        lessons: [
+                            { time: "09:00-10:35", subject: "Базовые виды спорта / Базовая физическая культура", type: "практика", room: "СК", note: "Курс по выбору" },
+                            { time: "10:55-12:30", subject: "История России", type: "лекция", teacher: "ХРИСТЕНКО Д.Н.", room: "29-206" },
+                            { time: "13:00-14:35", subject: null },
+                            { time: "14:55-16:30", subject: null },
+                            { time: "16:50-18:25", subject: null }
+                        ]
+                    }
+                ]
+            },
+            even_week: {
+                week_type: "четная",
+                days: [
+                    {
+                        day: "понедельник",
+                        lessons: [
+                            { time: "09:00-10:35", subject: null },
+                            { time: "10:55-12:30", subject: "Программирование на языке Python", type: "лекция", teacher: "ХРАМОВ Д.Э.", room: "01-416" },
+                            { time: "13:00-14:35", subject: "Русский язык, культура речи и деловое общение", type: "практика", teacher: "ДЕНИСОВА Е.А.", room: "01-508" },
+                            { time: "14:55-16:30", subject: "Адаптационный курс английского языка", type: "практика", teacher: "КИРСАНОВА М.М.", room: "12-112", note: "Курс по выбору" },
+                            { time: "16:50-18:25", subject: null }
+                        ]
+                    },
+                    {
+                        day: "вторник",
+                        lessons: [
+                            { time: "09:00-10:35", subject: "Английский язык для IT-специалистов", type: "практика", teacher: "ТОКАРЕВ В.С.", room: "01-212", note: "Курс по выбору" },
+                            { time: "10:55-12:30", subject: "Программирование на языке Python", type: "практика", teacher: "ВЕТОШКИН А.Ю. / АКИМУШКИНА М.А.", room: "01-212 / 01-214", note: "Две группы" },
+                            { time: "13:00-14:35", subject: "Экономическая теория", type: "практика", teacher: "АРЗАМАСЦЕВА Н.В.", room: "01-413" },
+                            { time: "14:55-16:30", subject: null },
+                            { time: "16:50-18:25", subject: null }
+                        ]
+                    },
+                    {
+                        day: "среда",
+                        lessons: [
+                            { time: "09:00-10:35", subject: null },
+                            { time: "10:55-12:30", subject: null },
+                            { time: "13:00-14:35", subject: "Экономическая теория", type: "лекция", teacher: "АРЗАМАСЦЕВА Н.В.", room: "01-416" },
+                            { time: "14:55-16:30", subject: "Базовые виды спорта / Базовая физическая культура", type: "практика", room: "СК", note: "Курс по выбору" },
+                            { time: "16:50-18:25", subject: "Линейная алгебра", type: "лекция", teacher: "ПРУДКИЙ А.С.", room: "12-Планетарий" }
+                        ]
+                    },
+                    {
+                        day: "четверг",
+                        lessons: [
+                            { time: "09:00-10:35", subject: "Линейная алгебра", type: "лекция", teacher: "ПРУДКИЙ А.С.", room: "28-304" },
+                            { time: "10:55-12:30", subject: "Физика", type: "практика", teacher: "ХУСАИНОВ Ш.Г.", room: "28-306а, 28-306б" },
+                            { time: "13:00-14:35", subject: "Физика", type: "лекция", teacher: "ХУСАИНОВ Ш.Г.", room: "28-304" },
+                            { time: "14:55-16:30", subject: "Иностранный язык", type: "практика", teacher: "КИРСАНОВА М.М. / ПОРЧЕСКУ Г.В.", room: "12-112 / 27-315", note: "Две группы" },
+                            { time: "16:50-18:25", subject: "Линейная алгебра", type: "практика", teacher: "ПРУДКИЙ А.С.", room: "12-220" }
+                        ]
+                    },
+                    {
+                        day: "пятница",
+                        lessons: [
+                            { time: "09:00-10:35", subject: "Базовые виды спорта / Базовая физическая культура", type: "практика", room: "СК", note: "Курс по выбору" },
+                            { time: "10:55-12:30", subject: "История России", type: "лекция", teacher: "ХРИСТЕНКО Д.Н.", room: "01-416" },
+                            { time: "13:00-14:35", subject: "Основы российской государственности", type: "практика", teacher: "МИРОНЮК С.А.", room: "02-105" },
+                            { time: "14:55-16:30", subject: "Русский язык, культура речи и деловое общение", type: "лекция", teacher: "ДЕНИСОВА Е.А.", room: "01-416" },
+                            { time: "16:50-18:25", subject: null }
+                        ]
+                    }
+                ]
+            }
+        };
+
+        let currentDayIndex = 0;
+        let currentWeekType = 'odd_week';
+
+        function getWeekNumber() {
+            const today = new Date();
+            const firstSeptember = new Date(today.getFullYear(), 8, 1);
+            const diffTime = Math.abs(today - firstSeptember);
+            const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+            return Math.floor(diffDays / 7) + 1;
+        }
+
+        function getCurrentTimeInMinutes() {
+            const now = new Date();
+            return now.getHours() * 60 + now.getMinutes();
+        }
+
+        function checkIfLessonsEnded(lessons) {
+            const currentTime = getCurrentTimeInMinutes();
+            const lastLesson = lessons[lessons.length - 1];
+            
+            if (!lastLesson || !lastLesson.time) return false;
+            
+            const endTimeStr = lastLesson.time.split('-')[1];
+            const [hours, minutes] = endTimeStr.split(':').map(Number);
+            const endTimeInMinutes = hours * 60 + minutes;
+            
+            return currentTime > endTimeInMinutes;
+        }
+
+        function getNextDayIndex(currentIndex) {
+            return (currentIndex + 1) % 5;
+        }
+
+        function showNextDay() {
+            const nextDayIndex = getNextDayIndex(currentDayIndex);
+            currentDayIndex = nextDayIndex;
+            renderSchedule(currentWeekType, currentDayIndex);
+            document.getElementById('next-day-notice').style.display = 'none';
+        }
+
+        function renderSchedule(weekType, dayIndex) {
+            const weekData = scheduleData[weekType];
+            const dayData = weekData.days[dayIndex];
+            const scheduleList = document.getElementById('schedule-list');
+            
+            document.getElementById('current-day').textContent = `День: ${dayData.day}`;
+            document.getElementById('week-type').textContent = `Неделя: ${weekData.week_type}`;
+            document.getElementById('current-date').textContent = `Дата: ${new Date().toLocaleDateString('ru-RU')}`;
+            
+            document.querySelectorAll('.day-btn').forEach((btn, index) => {
+                btn.classList.toggle('active', index === dayIndex);
+            });
+            
+            scheduleList.innerHTML = '';
+            
+            dayData.lessons.forEach((lesson, index) => {
+                const lessonElement = document.createElement('div');
+                lessonElement.className = `lesson-card ${!lesson.subject ? 'no-class' : ''}`;
+                
+                if (lesson.subject) {
+                    lessonElement.innerHTML = `
+                        <div class="lesson-time">${lesson.time}</div>
+                        <div class="lesson-content">
+                            <div class="subject">
+                                ${lesson.type ? `<span class="type-badge">${lesson.type}</span>` : ''}
+                                ${lesson.subject}
+                            </div>
+                            ${lesson.teacher ? `<div class="teacher">${lesson.teacher}</div>` : ''}
+                            ${lesson.room ? `<div class="room">${lesson.room}</div>` : ''}
+                            ${lesson.note ? `<div class="note">${lesson.note}</div>` : ''}
+                        </div>
+                    `;
+                } else {
+                    lessonElement.innerHTML = `
+                        <div class="lesson-time">${lesson.time}</div>
+                        <div class="no-class">Нет пары</div>
+                    `;
+                }
+                
+                scheduleList.appendChild(lessonElement);
+            });
+
+            const isToday = dayIndex === (new Date().getDay() - 1);
+            if (isToday && checkIfLessonsEnded(dayData.lessons)) {
+                document.getElementById('next-day-notice').style.display = 'block';
+            } else {
+                document.getElementById('next-day-notice').style.display = 'none';
+            }
+        }
+
+        function createDayButtons() {
+            const daySelector = document.getElementById('day-selector');
+            const days = ['ПН', 'ВТ', 'СР', 'ЧТ', 'ПТ'];
+            const fullDays = ['понедельник', 'вторник', 'среда', 'четверг', 'пятница'];
+            
+            days.forEach((day, index) => {
+                const button = document.createElement('button');
+                button.className = 'day-btn';
+                button.textContent = day;
+                button.title = fullDays[index];
+                button.addEventListener('click', () => {
+                    currentDayIndex = index;
+                    renderSchedule(currentWeekType, index);
+                });
+                daySelector.appendChild(button);
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            createDayButtons();
+            
+            const weekNumber = getWeekNumber();
+            currentWeekType = weekNumber % 2 !== 0 ? 'odd_week' : 'even_week';
+            currentDayIndex = new Date().getDay() - 1;
+            
+            if (currentDayIndex < 0 || currentDayIndex > 4) {
+                currentDayIndex = 0;
+            }
+            
+            renderSchedule(currentWeekType, currentDayIndex);
+        });
+
+        window.showNextDay = showNextDay;
+    </script>
+</body>
+</html>
