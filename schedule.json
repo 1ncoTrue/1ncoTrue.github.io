@@ -335,10 +335,10 @@
                 },
                 {
                   "time": "10:55-12:30",
-                  "subject": null,
-                  "type": null,
-                  "teacher": null,
-                  "room": null
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "01-316"
                 },
                 {
                   "time": "13:00-14:35",
@@ -1132,10 +1132,10 @@
                 },
                 {
                   "time": "14:55-16:30",
-                  "subject": "История России",
-                  "type": "практика",
-                  "teacher": "ХРИСТENKO Д.Н.",
-                  "room": "01-405"
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
                 },
                 {
                   "time": "16:50-18:25",
