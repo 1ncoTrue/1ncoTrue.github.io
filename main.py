@@ -56,8 +56,8 @@ async def command_start_handler(message: Message) -> None:
     await add_user(user_id, username)
 
     await message.answer(f'Здесь можно увидеть актуальное расписание на сегодня.\n' 
-                         f'Пока расписание только для группы ДЭ 24-25,'
-                         f'но в планах добавить весь ИСИТ.\n'
+                         f'Да да расписание для всего ИСИТА уже здесь.\n'
+                         f'Мб скоро сделаю для всего первого курса.\n'
                          f'❗❗❗Внимательно проверяйте расписание, если нашли ошибку пишите в чат боту', reply_markup=builder_main(), parse_mode=ParseMode.HTML)
 
 @dp.message()
