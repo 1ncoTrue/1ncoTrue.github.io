@@ -2384,6 +2384,5829 @@
           ]
         }
       }
+    },
+    {
+      "group": "ДЭ 01-25",
+      "schedule": {
+        "odd_week": {
+          "week_type": "нечетная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Технология переработки и хранения продукции животноводства",
+                  "type": "практика",
+                  "teacher": "АРАКЧАА Ч.А.",
+                  "room": "25-9"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-325"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "01-316"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "УМАНСКАЯ П.А.",
+                  "room": "12-215"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "УМАНСКАЯ П.А.",
+                  "room": "12-215"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-326"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Профессиональная этика",
+                  "type": "практика",
+                  "teacher": "ОСТАПЧУК Т.В.",
+                  "room": "02-105"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Технология хранения и переработки продукции растениеводства",
+                  "type": "лекция",
+                  "teacher": "ШАПОВАЛОВА П.Н.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "лекция",
+                  "teacher": "СТЕПАНЦЕВИЧ М.Н.",
+                  "room": "29-240",
+                  "note": "С ХУДЯКОВА Е.В."
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        },
+        "even_week": {
+          "week_type": "четная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Технология переработки и хранения продукции животноводства",
+                  "type": "лекция",
+                  "teacher": "СЕРЕГИН С.А.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-325"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "01-316"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "УМАНСКАЯ П.А.",
+                  "room": "12-215"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "УМАНСКАЯ П.А.",
+                  "room": "12-215"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Технология хранения и переработки продукции растениеводства",
+                  "type": "практика",
+                  "teacher": "ШАПОВАЛОВА П.Н.",
+                  "room": "25-2"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Профессиональная этика",
+                  "type": "лекция",
+                  "teacher": "ОСТАПЧУК Т.В.",
+                  "room": "12-Планетарий1"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "group": "ДЭ 05-25",
+      "schedule": {
+        "odd_week": {
+          "week_type": "нечетная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-325"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Технология переработки и хранения продукции животноводства",
+                  "type": "практика",
+                  "teacher": "АРАКЧАА Ч.А.",
+                  "room": "25-8"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "ПОРЧЕСКУ Г.В.",
+                  "room": "27-315"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "01-403"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-325"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Профессиональная этика",
+                  "type": "практика",
+                  "teacher": "ОСТАПЧУК Т.В.",
+                  "room": "02-105"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "ПОРЧЕСКУ Г.В.",
+                  "room": "27-315"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Технология хранения и переработки продукции растениеводства",
+                  "type": "лекция",
+                  "teacher": "ШАПОВАЛОВА П.Н.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "лекция",
+                  "teacher": "СТЕПАНЦЕВИЧ М.Н.",
+                  "room": "29-240",
+                  "note": "С ХУДЯКОВА Е.В."
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        },
+        "even_week": {
+          "week_type": "четная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Технология переработки и хранения продукции животноводства",
+                  "type": "лекция",
+                  "teacher": "СЕРЕГИН С.А.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "ПОРЧЕСКУ Г.В.",
+                  "room": "27-315"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "01-316"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-325"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "ПОРЧЕСКУ Г.В.",
+                  "room": "27-315"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Профессиональная этика",
+                  "type": "лекция",
+                  "teacher": "ОСТАПЧУК Т.В.",
+                  "room": "12-Планетарий1"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Технология хранения и переработки продукции растениеводства",
+                  "type": "практика",
+                  "teacher": "ШАПОВАЛОВА П.Н.",
+                  "room": "25-7"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "group": "ДЭ 02-25",
+      "schedule": {
+        "odd_week": {
+          "week_type": "нечетная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Технология хранения и переработки продукции растениеводства",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "25-7"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-326"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Профессиональная этика",
+                  "type": "практика",
+                  "teacher": "ОСТАПЧУК Т.В.",
+                  "room": "02-105"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-225"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "ГЕРИЕВА Е.Г.",
+                  "room": "12-204"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "ГЕРИЕВА Е.Г.",
+                  "room": "12-204"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "01-316"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-325"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Технология хранения и переработки продукции растениеводства",
+                  "type": "лекция",
+                  "teacher": "ШАПОВАЛОВА П.Н.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "лекция",
+                  "teacher": "СТЕПАНЦЕВИЧ М.Н.",
+                  "room": "29-240",
+                  "note": "С ХУДЯКОВА Е.В."
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        },
+        "even_week": {
+          "week_type": "четная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Технология переработки и хранения продукции животноводства",
+                  "type": "лекция",
+                  "teacher": "СЕРЕГИН С.А.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Технология переработки и хранения продукции животноводства",
+                  "type": "практика",
+                  "teacher": "АРАКЧАА Ч.А.",
+                  "room": "25-9"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-326"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "ГЕРИЕВА Е.Г.",
+                  "room": "12-204"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "ГЕРИЕВА Е.Г.",
+                  "room": "12-204"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Профессиональная этика",
+                  "type": "лекция",
+                  "teacher": "ОСТАПЧУК Т.В.",
+                  "room": "12-Планетарий1"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "group": "ДЭ 13-25",
+      "schedule": {
+        "odd_week": {
+          "week_type": "нечетная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Технология хранения и переработки продукции растениеводства",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "25-7"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Профессиональная этика",
+                  "type": "практика",
+                  "teacher": "ОСТАПЧУК Т.В.",
+                  "room": "02-105"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "СИНИЦЫНА И.А.",
+                  "room": "12-208"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "01-316"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "СИНИЦЫНА И.А.",
+                  "room": "12-208"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-325"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Технология хранения и переработки продукции растениеводства",
+                  "type": "лекция",
+                  "teacher": "ШАПОВАЛОВА П.Н.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "лекция",
+                  "teacher": "СТЕПАНЦЕВИЧ М.Н.",
+                  "room": "29-240",
+                  "note": "С ХУДЯКОВА Е.В."
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        },
+        "even_week": {
+          "week_type": "четная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Технология переработки и хранения продукции животноводства",
+                  "type": "лекция",
+                  "teacher": "СЕРЕГИН С.А.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Технология переработки и хранения продукции животноводства",
+                  "type": "практика",
+                  "teacher": "АРАКЧАА Ч.А.",
+                  "room": "25-8"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "СИНИЦЫНА И.А.",
+                  "room": "12-208"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "01-316"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teacher": "СИНИЦЫНА И.А.",
+                  "room": "12-208"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-325"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-325"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Профессиональная этика",
+                  "type": "лекция",
+                  "teacher": "ОСТАПЧУК Т.В.",
+                  "room": "12-Планетарий1"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "group": "ДЭ 03-25",
+      "schedule": {
+        "odd_week": {
+          "week_type": "нечетная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "28-326"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Технология переработки и хранения продукции животноводства",
+                  "type": "практика",
+                  "teacher": "АРАКЧАА Ч.А.",
+                  "room": "25-9"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Социология",
+                  "type": "практика",
+                  "teacher": "ПАНЮКОВ А.И.",
+                  "room": "01-411"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "28-327"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "РЯБЧИКОВА В.Г.",
+                      "room": "12-211"
+                    },
+                    {
+                      "name": "АЛИПИЧЕВ А.Ю.",
+                      "room": "12-209"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "РЯБЧИКОВА В.Г.",
+                      "room": "12-211"
+                    },
+                    {
+                      "name": "АЛИПИЧЕВ А.Ю.",
+                      "room": "12-209"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "БЕСШАПОШНЫЙ М.Н.",
+                  "room": "01-316"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Технология хранения и переработки продукции растениеводства",
+                  "type": "лекция",
+                  "teacher": "ШАПОВАЛОВА П.Н.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "лекция",
+                  "teacher": "СТЕПАНЦЕВИЧ М.Н.",
+                  "room": "29-240",
+                  "note": "С ХУДЯКОВА Е.В."
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        },
+        "even_week": {
+          "week_type": "четная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Технология переработки и хранения продукции животноводства",
+                  "type": "лекция",
+                  "teacher": "СЕРЕГИН С.А.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Технология хранения и переработки продукции растениеводства",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "25-3"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Социология",
+                  "type": "лекция",
+                  "teacher": "ПАНЮКОВ А.И.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Социология",
+                  "type": "практика",
+                  "teacher": "ПАНЮКОВ А.И.",
+                  "room": "01-411"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "28-325"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "РЯБЧИКОВА В.Г.",
+                      "room": "12-211"
+                    },
+                    {
+                      "name": "АЛИПИЧЕВ А.Ю.",
+                      "room": "12-209"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "РЯБЧИКОВА В.Г.",
+                      "room": "12-211"
+                    },
+                    {
+                      "name": "АЛИПИЧЕВ А.Ю.",
+                      "room": "12-209"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "БЕСШАПОШНЫЙ М.Н.",
+                  "room": "01-316"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "group": "ДЭ 04-25",
+      "schedule": {
+        "odd_week": {
+          "week_type": "нечетная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Социология",
+                  "type": "практика",
+                  "teacher": "ПАНЮКОВ А.И.",
+                  "room": "01-411"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "28-325"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Технология переработки и хранения продукции животноводства",
+                  "type": "практика",
+                  "teacher": "АРАКЧАА Ч.А.",
+                  "room": "25-8"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "БАБУШКИНА Л.Е.",
+                      "room": "12-202"
+                    },
+                    {
+                      "name": "МАЛЁВ А.В.",
+                      "room": "12-213"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "28-325"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "БАБУШКИНА Л.Е.",
+                      "room": "12-202"
+                    },
+                    {
+                      "name": "МАЛЁВ А.В.",
+                      "room": "12-213"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "БЕСШАПОШНЫЙ М.Н.",
+                  "room": "01-405"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Технология хранения и переработки продукции растениеводства",
+                  "type": "лекция",
+                  "teacher": "ШАПОВАЛОВА П.Н.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "лекция",
+                  "teacher": "СТЕПАНЦЕВИЧ М.Н.",
+                  "room": "29-240",
+                  "note": "С ХУДЯКОВА Е.В."
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        },
+        "even_week": {
+          "week_type": "четная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Технология переработки и хранения продукции животноводства",
+                  "type": "лекция",
+                  "teacher": "СЕРЕГИН С.А.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Социология",
+                  "type": "лекция",
+                  "teacher": "ПАНЮКОВ А.И.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Технология хранения и переработки продукции растениеводства",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "25-2"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "БАБУШКИНА Л.Е.",
+                      "room": "12-202"
+                    },
+                    {
+                      "name": "МАЛЁВ А.В.",
+                      "room": "12-213"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "28-325"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": "Социология",
+                  "type": "практика",
+                  "teacher": "ПАНЮКОВ А.И.",
+                  "room": "01-411"
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "БАБУШКИНА Л.Е.",
+                      "room": "12-202"
+                    },
+                    {
+                      "name": "МАЛЁВ А.В.",
+                      "room": "12-213"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "БЕСШАПОШНЫЙ М.Н.",
+                  "room": "01-413"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "18:30-20:05",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "20:15-21:50",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "group": "ДЭ 06-25",
+      "schedule": {
+        "odd_week": {
+          "week_type": "нечетная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Экономическая безопасность",
+                  "type": "практика",
+                  "teacher": "КАТКОВ Ю.Н.",
+                  "room": "02-318"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Государственный финансовый контроль",
+                  "type": "практика",
+                  "teacher": "РУСАКОВ Я.Е.",
+                  "room": "02-103"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Производство продукции животноводства при полноценном кормлении",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "КОСОГОР А.В.",
+                      "room": "11-110"
+                    },
+                    {
+                      "name": "МОЛДАВСКИЙ Ю.А.",
+                      "room": "11-106"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Государственный финансовый контроль",
+                  "type": "лекция",
+                  "teacher": "ГУПАЛОВА Т.Н.",
+                  "room": "02-318"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "КОМАНОВА А.Ю.",
+                      "room": "27-1"
+                    },
+                    {
+                      "name": "ПОРЧЕСКУ Г.В.",
+                      "room": "27-315"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "ИВАНОВ С.Н.",
+                  "room": "28-327"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "КОМАНОВА А.Ю.",
+                      "room": "27-1"
+                    },
+                    {
+                      "name": "ПОРЧЕСКУ Г.В.",
+                      "room": "27-315"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "ВАХРУШЕВА И.А.",
+                  "room": "12-114"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "01-306"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "лекция",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "29-240"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": null
+                    }
+                  ]
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        },
+        "even_week": {
+          "week_type": "четная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Экономическая безопасность",
+                  "type": "практика",
+                  "teacher": "КАТКОВ Ю.Н.",
+                  "room": "02-318"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "ИВАНОВ С.Н.",
+                  "room": "28-326"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Производство продукции животноводства при полноценном кормлении",
+                  "type": "лекция",
+                  "teacher": "КОСОЛАПОВА В.Г.",
+                  "room": "11-101"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математика",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Экономическая безопасность",
+                  "type": "лекция",
+                  "teacher": "КАТКОВ Ю.Н.",
+                  "room": "02-318"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "01-404"
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "ШЕСТАКОВ И.Н.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "КОМАНОВА А.Ю.",
+                      "room": "27-1"
+                    },
+                    {
+                      "name": "ПОРЧЕСКУ Г.В.",
+                      "room": "27-315"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "ИВАНОВ С.Н.",
+                  "room": "28-327"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "лекция",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": "Производство продукции животноводства при полноценном кормлении",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "КОСОГОР А.В.",
+                      "room": "11-110"
+                    },
+                    {
+                      "name": "МОЛДАВСКИЙ Ю.А.",
+                      "room": "11-106"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "МИРОНЮК С.А.",
+                  "room": "29-240"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "КОМАНОВА А.Ю.",
+                      "room": "27-1"
+                    },
+                    {
+                      "name": "ПОРЧЕСКУ Г.В.",
+                      "room": "27-315"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Математика",
+                  "type": "практика",
+                  "teacher": "ВАХРУШЕВА И.А.",
+                  "room": "12-114"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Экономическая теория",
+                  "type": "практика",
+                  "teacher": "АРЗАМАСЦЕВА Н.В.",
+                  "room": "01-319"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": "Цифровые технологии в профессиональной деятельности",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СТЕПАНЦЕВИЧ М.Н.",
+                      "room": "12-310а"
+                    },
+                    {
+                      "name": "ХУДЯКОВА Е.В.",
+                      "room": "12-310б"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Государственный финансовый контроль",
+                  "type": "практика",
+                  "teacher": "РУСАКОВ Я.Е.",
+                  "room": "02-103"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "group": "ДЭ 15-25",
+      "schedule": {
+        "odd_week": {
+          "week_type": "нечетная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Математический анализ",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-Планетарий1"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Физика",
+                  "type": "лекция",
+                  "teacher": "ХУСАИНОВ Ш.Г.",
+                  "room": "28-304"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "ТЕРСКИЙ Н.С.",
+                  "room": "28-327"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Алгоритмизация и программирование",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Основы животноводства и рационального кормления животных",
+                  "type": "лекция",
+                  "teacher": "КОСОЛАПОВА В.Г.",
+                  "room": "09-ХД"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "РЯБЧИКОВА В.Г.",
+                      "room": "12-211"
+                    },
+                    {
+                      "name": "АЛИПИЧЕВ А.Ю.",
+                      "room": "12-209"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "27-310"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Философия",
+                  "type": "практика",
+                  "teacher": "КОТУСОВ Д.В.",
+                  "room": "01-411"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        },
+        "even_week": {
+          "week_type": "четная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Алгоритмизация и программирование",
+                  "type": "лекция",
+                  "teacher": null,
+                  "room": "29-211"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "лекция",
+                  "teacher": null,
+                  "room": "29-211"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Физика",
+                  "type": "практика",
+                  "teacher": "ХУСАИНОВ Ш.Г.",
+                  "room": "28-301а"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Физика",
+                  "type": "практика",
+                  "teacher": "ХУСАИНОВ Ш.Г.",
+                  "room": "28-301а"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "12-Планетарий1"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "ТЕРСКИЙ Н.С.",
+                  "room": "28-327"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Философия",
+                  "type": "лекция",
+                  "teacher": "КОТУСОВ Д.В.",
+                  "room": "01-407"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Алгоритмизация и программирование",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Основы животноводства и рационального кормления животных",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "ЖИВОДЕРОВ А.А.",
+                      "room": "11-106"
+                    },
+                    {
+                      "name": "ПРОХОРОВ Е.О.",
+                      "room": "11-110"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "РЯБЧИКОВА В.Г.",
+                      "room": "12-211"
+                    },
+                    {
+                      "name": "АЛИПИЧЕВ А.Ю.",
+                      "room": "12-209"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Математический анализ",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "27-310"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "ТЕРСКИЙ Н.С",
+                  "room": "28-316"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": "Философия",
+                  "type": "практика",
+                  "teacher": "КОТУСОВ Д.В.",
+                  "room": "01-411"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "group": "ДЭ 16-25",
+      "schedule": {
+        "odd_week": {
+          "week_type": "нечетная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Математический анализ",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-Планетарий1"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Физика",
+                  "type": "лекция",
+                  "teacher": "ХУСАИНОВ Ш.Г.",
+                  "room": "28-304"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "ВАСИЛЬЧЕНКО Т.А.",
+                      "room": "12-224"
+                    },
+                    {
+                      "name": "КИРСАНОВА М.М.",
+                      "room": "12-112"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Физика",
+                  "type": "практика",
+                  "teacher": "ХУСАИНОВ Ш.Г.",
+                  "room": "28-301а"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "01-405"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Основы животноводства и рационального кормления животных",
+                  "type": "лекция",
+                  "teacher": "КОСОЛАПОВА В.Г.",
+                  "room": "09-ХД"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Алгоритмизация и программирование",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Философия",
+                  "type": "практика",
+                  "teacher": "КОТУСОВ Д.В.",
+                  "room": "01-410"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-326"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        },
+        "even_week": {
+          "week_type": "четная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Алгоритмизация и программирование",
+                  "type": "лекция",
+                  "teacher": null,
+                  "room": "29-211"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "лекция",
+                  "teacher": null,
+                  "room": "29-211"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-329"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "12-Планетарий1"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "ВАСИЛЬЧЕНКО Т.А.",
+                      "room": "12-224"
+                    },
+                    {
+                      "name": "КИРСАНОВА М.М.",
+                      "room": "12-112"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Физика",
+                  "type": "практика",
+                  "teacher": "ХУСАИНОВ Ш.Г.",
+                  "room": "28-301а"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Философия",
+                  "type": "лекция",
+                  "teacher": "КОТУСОВ Д.В.",
+                  "room": "01-407"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "01-405"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Математический анализ",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Алгоритмизация и программирование",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Основы животноводства и рационального кормления животных",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "ЖИВОДЕРОВ А.А.",
+                      "room": "11-106"
+                    },
+                    {
+                      "name": "ПРОХОРОВ Е.О.",
+                      "room": "11-110"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Философия",
+                  "type": "практика",
+                  "teacher": "КОТУСОВ Д.В.",
+                  "room": "01-410"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "27-310"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "28-326"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "group": "ДЭ 17-25",
+      "schedule": {
+        "odd_week": {
+          "week_type": "нечетная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Математический анализ",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-Планетарий1"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Физика",
+                  "type": "лекция",
+                  "teacher": "ХУСАИНОВ Ш.Г.",
+                  "room": "28-304"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Физика",
+                  "type": "практика",
+                  "teacher": "ХУСАИНОВ Ш.Г.",
+                  "room": "28-301а"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "01-405"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Философия",
+                  "type": "практика",
+                  "teacher": "КОТУСОВ Д.В.",
+                  "room": "01-410"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Основы животноводства и рационального кормления животных",
+                  "type": "лекция",
+                  "teacher": "КОСОЛАПОВА В.Г.",
+                  "room": "09-ХД"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Математический анализ",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "ПАХОМЕНКОВА О.М.",
+                      "room": "12-222"
+                    },
+                    {
+                      "name": "УМАНСКАЯ П.А.",
+                      "room": "12-215"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Основы животноводства и рационального кормления животных",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "ЖИВОДЕРОВ А.А.",
+                      "room": "11-106"
+                    },
+                    {
+                      "name": "ПРОХОРОВ Е.О.",
+                      "room": "11-110"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "27-310"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Алгоритмизация и программирование",
+                  "type": "практика",
+                  "teacher": "ЖУРАВЛЕВ М.В.",
+                  "room": "01-210"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        },
+        "even_week": {
+          "week_type": "четная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Алгоритмизация и программирование",
+                  "type": "лекция",
+                  "teacher": null,
+                  "room": "29-211"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "лекция",
+                  "teacher": null,
+                  "room": "29-211"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "12-Планетарий1"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Физика",
+                  "type": "практика",
+                  "teacher": "ХУСАИНОВ Ш.Г.",
+                  "room": "28-301б"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "01-405"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Философия",
+                  "type": "лекция",
+                  "teacher": "КОТУСОВ Д.В.",
+                  "room": "01-407"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БАДЕКИН М.Ю.",
+                  "room": "28-327"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БАДЕКИН М.Ю.",
+                  "room": "28-329"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": "БАДЕКИН М.Ю.",
+                  "room": "28-326"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "ПАХОМЕНКОВА О.М.",
+                      "room": "12-222"
+                    },
+                    {
+                      "name": "УМАНСКАЯ П.А.",
+                      "room": "12-215"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "27-310"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Алгоритмизация и программирование",
+                  "type": "практика",
+                  "teacher": "ЖУРАВЛЕВ М.В.",
+                  "room": "01-210"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "group": "ДЭ 18-25",
+      "schedule": {
+        "odd_week": {
+          "week_type": "нечетная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Математический анализ",
+                  "type": "лекция",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-Планетарий1"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Физика",
+                  "type": "лекция",
+                  "teacher": "ХУСАИНОВ Ш.Г.",
+                  "room": "28-304"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Физика",
+                  "type": "практика",
+                  "teacher": "ХУСАИНОВ Ш.Г.",
+                  "room": "28-301а"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Физика",
+                  "type": "практика",
+                  "teacher": "ХУСАИНОВ Ш.Г.",
+                  "room": "28-301а"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "01-416"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Алгоритмизация и программирование",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Математический анализ",
+                  "type": "практика",
+                  "teacher": "КИЙКО П.В.",
+                  "room": "12-220"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Философия",
+                  "type": "практика",
+                  "teacher": "КОТУСОВ Д.В.",
+                  "room": "01-410"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Основы животноводства и рационального кормления животных",
+                  "type": "лекция",
+                  "teacher": "КОСОЛАПОВА В.Г.",
+                  "room": "09-ХД"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Основы животноводства и рационального кормления животных",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "ЖИВОДЕРОВ А.А.",
+                      "room": "11-106"
+                    },
+                    {
+                      "name": "ПРОХОРОВ Е.О.",
+                      "room": "11-110"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "28-314"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СИНИЦЫНА И.А.",
+                      "room": "12-208"
+                    },
+                    {
+                      "name": "ИГНАТЕНКО В.А.",
+                      "room": "12-210"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "27-310"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        },
+        "even_week": {
+          "week_type": "четная",
+          "days": [
+            {
+              "day": "понедельник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Алгоритмизация и программирование",
+                  "type": "лекция",
+                  "teacher": null,
+                  "room": "29-211"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "лекция",
+                  "teacher": null,
+                  "room": "29-211"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Алгоритмизация и программирование",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Основы ИИ в АПК",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "01-210"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "вторник",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "История России",
+                  "type": "лекция",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "12-Планетарий1"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "История России",
+                  "type": "практика",
+                  "teacher": "ТЛЕПЦОК Р.А.",
+                  "room": "01-404"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "28-327"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "среда",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": "Философия",
+                  "type": "лекция",
+                  "teacher": "КОТУСОВ Д.В.",
+                  "room": "01-407"
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "четверг",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "28-314"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Иностранный язык",
+                  "type": "практика",
+                  "teachers": [
+                    {
+                      "name": "СИНИЦЫНА И.А.",
+                      "room": "12-208"
+                    },
+                    {
+                      "name": "ИГНАТЕНКО В.А.",
+                      "room": "12-210"
+                    }
+                  ],
+                  "note": "Занятие проводится в двух группах одновременно"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            },
+            {
+              "day": "пятница",
+              "lessons": [
+                {
+                  "time": "09:00-10:35",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                },
+                {
+                  "time": "10:55-12:30",
+                  "subject": "Базовые виды спорта / Базовая физическая культура",
+                  "type": "практика",
+                  "teacher": null,
+                  "room": "СК",
+                  "note": "Курс по выбору"
+                },
+                {
+                  "time": "13:00-14:35",
+                  "subject": "Безопасность жизнедеятельности",
+                  "type": "лекция",
+                  "teacher": "БОЧКАРЕВ А.П.",
+                  "room": "27-310"
+                },
+                {
+                  "time": "14:55-16:30",
+                  "subject": "Философия",
+                  "type": "практика",
+                  "teacher": "КОТУСОВ Д.В.",
+                  "room": "01-410"
+                },
+                {
+                  "time": "16:50-18:25",
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
+                }
+              ]
+            }
+          ]
+        }
+      }
     }
   ]
 }
