@@ -1341,10 +1341,10 @@
               "lessons": [
                 {
                   "time": "09:00-10:35",
-                  "subject": "Линейная алгебра",
-                  "type": "лекция",
-                  "teacher": "ПРУДКИЙ А.С.",
-                  "room": "28-304"
+                  "subject": null,
+                  "type": null,
+                  "teacher": null,
+                  "room": null
                 },
                 {
                   "time": "10:55-12:30",
